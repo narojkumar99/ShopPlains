@@ -1,6 +1,6 @@
 # Introduction 
 ShopPlains is an overseas online shopping app targeted at customers outside U.S.   
-• Clearly classified items by their brands and categories  
+• Clearly classified items by their brands and categorie  
 • Enabled detailed images viewing and sizes & prices checking • Developed user signup and login with LeanCloud service  
 • Product information was collected from online using Python  
 
